@@ -835,8 +835,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Projeto Avaliativo Atividade 11
-  metroPackageVersion: 
+  metroPackageName: ProjetoAvaliativoAtividade11
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -844,7 +844,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Projeto Avaliativo Atividade 11
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Projeto Avaliativo Atividade 11
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
@@ -911,7 +911,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: 4b7ba274-da07-4915-a349-4cf63d2f4be7
   framebufferDepthMemorylessMode: 0
