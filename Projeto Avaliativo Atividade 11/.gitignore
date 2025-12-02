@@ -1,0 +1,127 @@
+# =============== #
+#   UNITY CORE    #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Arquivos de cache e backups do Unity
+sysinfo.txt
+*.stacktrace
+
+# Evitar conflitos de cena e estados locais
+*.unity.lock
+*.meta.lock
+*.pidb
+*.suo
+
+
+# =============== #
+#   VISUAL STUDIO #
+# =============== #
+
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.pdb
+*.mdb
+*.svd
+
+
+# =============== #
+#   RIDER / JETBRAINS #
+# =============== #
+
+.idea/
+*.sln.iml
+
+
+# =============== #
+#       VS CODE    #
+# =============== #
+
+.vscode/
+.history/
+
+
+# =============== #
+#     SISTEMA     #
+# =============== #
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Backups
+*.bak
+*.old
+
+
+# =============== #
+#   BUILD FILES    #
+# =============== #
+
+*.apk
+*.aab
+*.x86_64
+*.exe
+*.dll
+*.app
+*.jar
+*.keystore
+
+
+# =============== #
+#    GIT LFS       #
+# =============== #
+
+*.psd
+*.tga
+*.blend
+*.fbx
+*.png
+*.jpg
+*.jpeg
+*.exr
+*.wav
+*.mp3
+*.ogg
+*.mp4
+*.mov
+
+
+# =============== #
+#   NÃO IGNORAR   #
+#   (Essenciais)  #
+# =============== #
+
+!Assets/
+!ProjectSettings/
+!Packages/
+
+# Manter .meta
+!Assets/**/*.meta
+!Packages/**/*.meta
+!ProjectSettings/**/*.meta
+
+# Scenes, prefabs, materials etc.
+*.meta
